@@ -1,4 +1,4 @@
-#This is a simple tic-tac-toe game build using react and has a time traveling feature as well.
+# This is a simple tic-tac-toe game build using react and has a time traveling feature as well.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
